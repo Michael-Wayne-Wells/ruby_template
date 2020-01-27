@@ -1,27 +1,9 @@
-# _ _
+# _Ruby Template_
 
-#### _  _
+#### _A simple template for a small ruby script based program_
 
 #### By _**Michael Wells**_
 
-## Description
-
-_ _
-
-|Behavior|Input|Output|
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-## Setup/Installation Requirements
-
-* _Launch <https://michael-wayne-wells.github.io/(---------)> in your browser._
-### OR ###
-* clone and open the file locally
-* _in terminal run:_
->$git clone https://github.com/Michael-Wayne-Wells/(------).git
-* _open index.html in your browser._
 
 
 
